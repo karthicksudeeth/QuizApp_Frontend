@@ -1,0 +1,37 @@
+
+
+.body{
+    display: flex;
+    flex-direction: column;
+  
+    align-items: center;
+    min-height: 100vh;
+}
+.question{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin:3%;
+}
+.createquiz {
+    input{
+        height: 20px;
+        width: 300px;
+     
+        margin-top: 0%;
+        margin-bottom: 10px;
+    }
+
+}
+.addoption{
+    margin: 0%;
+    margin-bottom: 5%;
+}
+
+
+.button{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}

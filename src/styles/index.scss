@@ -1,0 +1,11 @@
+@import './vars.scss';
+
+body{
+    font-family: monospace;
+    background: linear-gradient(0deg,$primary 0.03%,$accent) no-repeat center center;
+    // background-repeat: no-repeat;
+    // background-size: cover;
+    color: $foreground;
+    margin: 0%; 
+}
+
